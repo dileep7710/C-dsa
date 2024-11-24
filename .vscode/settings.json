@@ -1,0 +1,13 @@
+#include <stdio.h>
+#include <conioa.h>
+{ 
+void main();
+int  I, num ;
+printf ("enter any number to calculate factorial:");
+scanf("%d";&num);
+for (i=1;i<=num;i++)
+{
+fact = fact*i;
+printf("factorial of %d" num,fact);
+getch();
+}
